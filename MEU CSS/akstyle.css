@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.tela{
+    background-color: black;
+    border: solid, rgb(92, 8, 92);
+    padding: 0px,50px,0px,50px;
+    margin: none;
+}
+.cabecalho{
+    background-color: rgb(199, 121, 169);
+    padding: 0px,0px,0px,0px;
+    margin: 100px,0px,0px,0px;
+    border: solid;
+    border-bottom: solid,blue;
+}
+.lado{
+    background-color: yellow;
+    color: black;
+}
+.lado2{
+    background-color: rgb(50, 249, 216);
+    color: black;
+}
+h1{
+    text-align: center;
+    color: rgb(138, 13, 13);
+}
+h2,h3,h4,h5,h6{
+    text-align: center;
+    color: goldenrod;
+}
+a{
+    
+}
+button{
+    text-align: center;
+}
+:hover{
+
+}
+p{
+    color: antiquewhite;
+}
+table{
+    border: solid 5px yellow;
+    color: white;
+    text-align: center;
+}
+tr,td,th{
+    border: solid 2px blue;
+    color: white;
+}
+main{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
